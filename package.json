@@ -1,0 +1,17 @@
+{
+  "name": "eggbot",
+  "version": "1.0.0",
+  "description": "W12 Studios eggbot",
+  "main": "lib/eggbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@liamviney",
+  "license": "ISC",
+  "dependencies": {
+    "node-wit": "^2.0.0",
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1",
+    "wemo-client": "^0.6.3"
+  }
+}
